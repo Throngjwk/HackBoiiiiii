@@ -8,7 +8,7 @@ import {ui} from "./api/ui/UI";
 var id = "hackedexpidle";
 var name = "Exponential Idle Hack Boiiiiiiiiii!!!!!!";
 var description = "1e100 dt.";
-var authors = "Gilles-Philippe Paillé";
+var authors = "nobody";
 var version = 1;
 
 import { ExponentialCost, FreeCost, LinearCost } from "./api/Costs";
