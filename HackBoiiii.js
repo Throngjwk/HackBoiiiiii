@@ -3,6 +3,7 @@ import { Localization } from "./api/Localization";
 import { BigNumber } from "./api/BigNumber";
 import { theory } from "./api/Theory";
 import { Utils } from "./api/Utils";
+import {ui} from "./api/ui/UI";
 
 var id = "my_custom_theory_id";
 var name = "Exponential Idle Hack Boiiiiiiiiiii!!!";
